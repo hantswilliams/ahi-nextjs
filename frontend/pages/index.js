@@ -78,7 +78,7 @@ export default function MyComponent(props) {
                 <p>Virtual webinar for the AHI program at Stony Brook</p>
               </div>{" "}
               <a
-                href="https://info.appliedhealthinformatics.com/about/"
+                href="https://leads.appliedhealthinformatics.com/about/"
                 dangerouslySetInnerHTML={{ __html: "AHI Webinar" }}
                 className="a"
                 openLinkInNewTab={true}
@@ -118,7 +118,7 @@ export default function MyComponent(props) {
                 </p>
               </div>{" "}
               <a
-                href="https://info.appliedhealthinformatics.com/mc-dv-1/"
+                href="https://leads.appliedhealthinformatics.com/mc-dv-1/"
                 dangerouslySetInnerHTML={{
                   __html: "Microcourse: Data Visualization",
                 }}
