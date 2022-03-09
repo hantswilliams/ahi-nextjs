@@ -7,7 +7,7 @@ export default function MyComponent(props) {
             <p>Applied Health Informatics</p>
           </div>
           <div className="div-4">
-            <p>Hants Williams, PhD, RN</p>
+            <p>Hants Williams, PhD, RN (STAGING)</p>
           </div>
         </div>
       </div>
