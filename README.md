@@ -3,6 +3,13 @@ ahi-nextjs
 ## About
 > Page was build using tool: `https://builder.io/` 
 
+## Vercel deployemt
+> Create new branch for changes, or work directly in `staging` branch 
+> Once ready, do PR from staging into main 
+
+## Designs:
+- Icons: https://www.iconfinder.com/icons/7955758/file_document_data_health_result_archive_folder_icon 
+
 # Instructions 
 - Create folder, give it a name
 - Run generic command to create new next.js project
